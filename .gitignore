@@ -11,3 +11,6 @@ npm-debug.logph
 
 # res
 resources/signing
+
+# gradle
+**/.gradle
